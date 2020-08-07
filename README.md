@@ -10,6 +10,5 @@ The `position` prop determines which side the arrow is located on the tool tip
 
 The `location` prop will determine where the arrow is displayed on the given side of the tool tip.
 
-For example, `position="bottom"` and `location="50"` will result in the following: 
+For example, `position="bottom"` and `location="50"` will result in the the arrow being positioned in the center of the tooltip along the bottom
  
-![alt text](https://github.com/jeremyMLtz/DynamicToolTip/raw/master/ToolTipImg.png "Tool Tip")
